@@ -1,0 +1,23 @@
+body.claro {
+  background-color: white;
+  color: black;
+}
+
+body.escuro {
+  background-color: #222;
+  color: white;
+}
+
+nav {
+  padding: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  border-radius: 10px;
+}
