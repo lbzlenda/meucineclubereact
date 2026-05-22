@@ -27,3 +27,5 @@ npm run dev
 ## Autor
 
 Leonardo Bezerra da Silva Cardoso
+
+Projeto desenvolvido para fins acadêmicos.
